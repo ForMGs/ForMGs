@@ -13,9 +13,9 @@ Java / Spring / Algorithm / Problem Solving
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ForMGs&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperNecessary&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForMGs&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperNecessary&layout=compact)
 
 ---
 
