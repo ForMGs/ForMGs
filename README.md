@@ -4,18 +4,19 @@
 
 Java / Spring / Algorithm / Problem Solving
 
-
 ---
 
 ## 🧠 Baekjoon Online Judge
 
 [![Solved.ac Profile](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=jungsm55)](https://solved.ac/jungsm55)
 
+---
+
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperNecessary&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ForMGs&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperNecessary&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForMGs&layout=compact&theme=tokyonight)
 
 ---
 
@@ -26,14 +27,12 @@ Java / Spring / Algorithm / Problem Solving
 - MySQL
 - Linux
 
-
 ---
 
 ## 📚 Algorithm
 
 - BOJ Problem Solving
 - Data Structure / Algorithm Study
-
 
 ---
 
